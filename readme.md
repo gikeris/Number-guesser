@@ -6,7 +6,7 @@ Inspired by : [Internet explorer is EVIL](http://toastytech.com/evil/)
 
 ## Check it out
 
-Work in progress
+https://gikeris.github.io/Number-guesser/
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
