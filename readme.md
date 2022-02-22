@@ -1,4 +1,4 @@
-# Number guesser (retro aesthetic)
+# Number guesser (retro vibes)
 
 Built a tiny, stupid website, trying to replicate old school websites. 
 
