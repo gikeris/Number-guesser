@@ -8,7 +8,5 @@ Inspired by : [Internet explorer is EVIL](http://toastytech.com/evil/)
 
 Work in progress
 
-
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
